@@ -1,5 +1,5 @@
 # learntera-lab
-ini adalah kata perubahan saya
+ini adalah kata perubahan saya yag kedua
 ## Build Setup
 
 ```bash
